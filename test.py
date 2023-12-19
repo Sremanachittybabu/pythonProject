@@ -28,3 +28,4 @@ with open('input_day4a.txt', 'r') as file:
             print(points)
             total_points += points
             print('tot:', total_points)
+            print('h')
