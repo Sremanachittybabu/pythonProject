@@ -1,7 +1,7 @@
 import folium
 import pandas
 
-data = pandas.read_csv("../../Desktop/MyPythonProject/Volcanoes.txt")
+data = pandas.read_csv("Volcanoes.txt")
 lat = list(data["LAT"])
 lon = list(data["LON"])
 elev = list(data["ELEV"])
