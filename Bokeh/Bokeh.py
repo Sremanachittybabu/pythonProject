@@ -13,5 +13,5 @@ f=figure()
 f.line(x,y)
 
 show(f)
-print(f)
+
 
