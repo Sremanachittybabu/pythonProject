@@ -37,3 +37,6 @@ modified_lines = [line.replace(' ', '').replace(',', 'TCWCUSAC ') for line in li
 output_file_path = 'final.txt'  # Replace 'output.txt' with the desired output file path
 with open(output_file_path, 'w') as output_file:
     output_file.writelines(modified_lines)
+
+
+# i am making some changes to test forking from pycharm
