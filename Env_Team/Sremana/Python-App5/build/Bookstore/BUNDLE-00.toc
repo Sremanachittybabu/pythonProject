@@ -1,0 +1,3 @@
+([('Bookstore',
+   '/Users/chittsc/PycharmProjects/pythonProject/Env_Team/Sremana/Python-App5/dist/Bookstore',
+   'EXECUTABLE')],)
